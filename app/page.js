@@ -10,7 +10,6 @@ export default function Home() {
         <hr />
         <GameBoard />
       </div>
-
     </>
   );
 }
